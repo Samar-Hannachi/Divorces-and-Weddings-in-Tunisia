@@ -1,0 +1,12 @@
+name: WeddingsDivorces
+title: WeddingsDivorces
+username:
+account: samarhannachi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 616259
+bundleId: 1761014
+url: https://samarhannachi.shinyapps.io/WeddingsDivorces/
+when: 1544712873.94177
+asMultiple: FALSE
+asStatic: FALSE
